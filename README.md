@@ -1,5 +1,5 @@
 # About Me:
-->Kırklareli Üniversitesi Yazılım Mühendisliği ve Anadolu Üniversitesi Yönetim Bilişim Sistemleri bölümlerinde okuyorum.<br><br>-->Web Geliştirme ve Mobil Uygulama Tasarlama alanları üzerinde kendimi geliştiriyorum.
+->Kırklareli Üniversitesi Yazılım Mühendisliği bölümünde okuyorum.<br><br>-->Web Geliştirme ve Mobil Uygulama Geliştirme alanları üzerinde kendimi geliştiriyorum.
 
 [![](https://visitcount.itsvg.in/api?id=celilseref&icon=5&color=1)](https://visitcount.itsvg.in)
 
